@@ -1,0 +1,3 @@
+/home/thiago/CLionProjects/alocacaoDinamica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thiago/CLionProjects/alocacaoDinamica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thiago/CLionProjects/alocacaoDinamica/cmake-build-debug/CMakeFiles/alocacaoDinamica.dir
